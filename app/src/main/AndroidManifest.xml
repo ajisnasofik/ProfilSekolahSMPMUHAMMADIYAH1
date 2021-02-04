@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-        package="com.example.profilsekolahsmpmuhammadiyah1">
+    package="com.example.profilsekolahsmpmuhammadiyah1">
 
     <application
-            android:allowBackup="true"
-            android:icon="@mipmap/ic_launcher"
-            android:label="@string/app_name"
-            android:roundIcon="@mipmap/ic_launcher_round"
-            android:supportsRtl="true"
-            android:theme="@style/Theme.ProfilsekolahSMPMUHAMMADIYAH1">
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ProfilsekolahSMPMUHAMMADIYAH1">
+        <activity android:name=".EkstrakulikulerActivity"></activity>
+        <activity android:name=".InformasiActivity" />
+        <activity android:name=".TugasActivity" />
+        <activity android:name=".AbsensiActivity" />
+        <activity android:name=".PrestasiActivity" />
+        <activity android:name=".ProfilActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

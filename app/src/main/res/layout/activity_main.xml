@@ -59,7 +59,8 @@
                         android:layout_width="100dp"
                         android:layout_height="100dp"
                         android:src="@drawable/profil"
-                        android:background="@color/white">
+                        android:background="@color/white"
+                    android:onClick="profil">
                 </ImageView>
                 <TextView
                         android:layout_width="wrap_content"
@@ -74,7 +75,8 @@
                         android:layout_height="100dp"
                         android:layout_marginTop="40dp"
                         android:src="@drawable/prestasi"
-                        android:background="@color/white">
+                        android:background="@color/white"
+                    android:onClick="prestasi">
                 </ImageView>
                 <TextView
                         android:layout_width="wrap_content"
@@ -89,7 +91,8 @@
                     android:layout_height="100dp"
                     android:layout_marginTop="40dp"
                     android:src="@drawable/absensi"
-                    android:background="@color/white">
+                    android:background="@color/white"
+                    android:onClick="absensi">
                 </ImageView>
                 <TextView
                     android:layout_width="wrap_content"
@@ -111,7 +114,8 @@
                         android:layout_width="100dp"
                         android:layout_height="100dp"
                         android:src="@drawable/tugas"
-                        android:background="@color/white">
+                        android:background="@color/white"
+                    android:onClick="tugas">
                 </ImageView>
                 <TextView
                         android:layout_width="wrap_content"
@@ -127,7 +131,10 @@
                     android:layout_height="100dp"
                     android:layout_marginTop="40dp"
                     android:background="@color/white"
-                    android:src="@drawable/estrakulikuler"></ImageView>
+                    android:src="@drawable/estrakulikuler"
+                    android:onClick="ekstrakulikuler">
+
+                </ImageView>
 
                 <TextView
                         android:layout_width="wrap_content"
@@ -143,7 +150,10 @@
                     android:layout_height="100dp"
                     android:layout_marginTop="40dp"
                     android:background="@color/white"
-                    android:src="@drawable/informasi"></ImageView>
+                    android:src="@drawable/informasi"
+                    android:onClick="informasi">
+
+                </ImageView>
 
                 <TextView
                     android:layout_width="wrap_content"
