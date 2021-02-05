@@ -8,7 +8,7 @@
     <ImageView
             android:layout_width="match_parent"
             android:layout_height="220dp"
-            android:background="#DD2012"
+            android:background="@drawable/logosmp"
             >
     </ImageView>
     <LinearLayout
@@ -21,27 +21,30 @@
                 android:layout_weight="1"
                 android:orientation="vertical"
                 android:gravity="center">
+
             <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:src="@drawable/bg"
-                    >
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/bg">
+
             </ImageView>
+
             <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="SMP MUHAMMADIYAH1 TEGAL"
                     android:textStyle="bold"
                     android:textColor="@color/white"
-                    android:textSize="26dp">
+                    android:gravity="center"
+                    android:textSize="20dp">
             </TextView>
             <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Bersama Kita Bangun Bangsa"
+                    android:text="Bersama Kita Bangun Generasi Bangsa"
                     android:textStyle="bold"
                     android:textColor="@color/white"
-                    android:textSize="15dp">
+                    android:textSize="20dp">
             </TextView>
         </LinearLayout>
         <LinearLayout
@@ -56,8 +59,8 @@
                     android:layout_height="match_parent"
                     android:gravity="center_horizontal">
                 <ImageView
-                        android:layout_width="100dp"
-                        android:layout_height="100dp"
+                        android:layout_width="90dp"
+                        android:layout_height="90dp"
                         android:src="@drawable/profil"
                         android:background="@color/white"
                     android:onClick="profil">
@@ -71,8 +74,8 @@
                         android:textColor="@color/black">
                 </TextView>
                 <ImageView
-                        android:layout_width="100dp"
-                        android:layout_height="100dp"
+                        android:layout_width="90dp"
+                        android:layout_height="90dp"
                         android:layout_marginTop="40dp"
                         android:src="@drawable/prestasi"
                         android:background="@color/white"
@@ -87,8 +90,8 @@
                         android:textColor="@color/black">
                 </TextView>
                 <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
+                    android:layout_width="90dp"
+                    android:layout_height="90dp"
                     android:layout_marginTop="40dp"
                     android:src="@drawable/absensi"
                     android:background="@color/white"
@@ -111,8 +114,8 @@
                     android:layout_height="match_parent"
                     android:gravity="center_horizontal">
                 <ImageView
-                        android:layout_width="100dp"
-                        android:layout_height="100dp"
+                        android:layout_width="90dp"
+                        android:layout_height="90dp"
                         android:src="@drawable/tugas"
                         android:background="@color/white"
                     android:onClick="tugas">
@@ -127,8 +130,8 @@
                 </TextView>
 
                 <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
+                    android:layout_width="90dp"
+                    android:layout_height="90dp"
                     android:layout_marginTop="40dp"
                     android:background="@color/white"
                     android:src="@drawable/estrakulikuler"
@@ -146,8 +149,8 @@
                 </TextView>
 
                 <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
+                    android:layout_width="90dp"
+                    android:layout_height="90dp"
                     android:layout_marginTop="40dp"
                     android:background="@color/white"
                     android:src="@drawable/informasi"
