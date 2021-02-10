@@ -38,4 +38,8 @@ public class MainActivity extends AppCompatActivity {
         Intent intent=new Intent(MainActivity.this, InformasiActivity.class);
         startActivity(intent);
     }
+    public void exit(View view){
+        Intent intent=new Intent(MainActivity.this, ExitActivity.class);
+        startActivity(intent);
+    }
 }
