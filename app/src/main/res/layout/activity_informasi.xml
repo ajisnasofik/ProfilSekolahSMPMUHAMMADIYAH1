@@ -31,6 +31,15 @@
                 android:textStyle="bold">
             </TextView>
 
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SMP MUHAMMDIYAH 1 TEGAL Adalah Sekolah yang mendalami
+                                ilmu Aagama, Adapun kelas Yang diinginkan.ada 3 macam kelas yaitu,
+                                    Kelas TAFITHS,IT,DAN REGULER. " />
+                android:textsize="14dp"
+
         </LinearLayout>
     </LinearLayout>
 
