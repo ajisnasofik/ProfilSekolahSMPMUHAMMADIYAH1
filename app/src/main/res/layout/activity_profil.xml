@@ -11,24 +11,24 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
 
+
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="290dp"
-            app:srcCompat="@drawable/logosmp" />
+            app:srcCompat="@drawable/mh" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:textSize="20dp"
+            android:gravity="center"
             android:background="#8F000000"
-            android:textStyle="bold"
-            android:text="PROFIL SMP MUHAMMADIYAH 1 TEGAL"
+            android:paddingLeft="15dp"
             android:paddingTop="15dp"
             android:paddingBottom="15dp"
-            android:paddingLeft="15dp"/>
-
-
+            android:text="PROFIL SEKOLAH"
+            android:textSize="20dp"
+            android:textStyle="bold" />
 
         <TableLayout
             android:layout_width="match_parent"
@@ -131,7 +131,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textStyle="bold"
-                    android:textSize="14dp"
+                    android:textSize="13dp"
                     android:layout_weight="1"
                     android:text="Jl. Perintis Kemerdekaan No. 95" />
 
@@ -147,7 +147,7 @@
                     android:textStyle="bold"
                     android:textSize="14dp"
                     android:layout_weight="1"
-                    android:text="TERAKREDITASI"
+                    android:text="MUTU SEKOLAH"
                     android:paddingLeft="15dp"/>
                 <TextView
                     android:layout_width="wrap_content"
@@ -190,7 +190,7 @@
                     android:textStyle="bold"
                     android:textSize="14dp"
                     android:layout_weight="1"
-                    android:text="SMPMUHAMMADIYAH1" />
+                    android:text="" />
 
             </TableRow>
             <TableRow
@@ -220,11 +220,156 @@
                     android:layout_weight="1"
                     android:text=" Slerok, Kec. Tegal Timur, " />
 
+
             </TableRow>
 
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="14dp"
+                    android:layout_weight="1"
+                    android:text="KODE POS"
+                    android:paddingLeft="15dp"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20dp"
+                    android:layout_weight="1"
+                    android:text=":" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="14dp"
+                    android:layout_weight="1"
+                    android:text="" />
 
 
+            </TableRow>
 
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="14dp"
+                    android:layout_weight="1"
+                    android:text="KECAMATAN"
+                    android:paddingLeft="15dp"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20dp"
+                    android:layout_weight="1"
+                    android:text=":" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="14dp"
+                    android:layout_weight="1"
+                    android:text="Kec. Tegal Timur, " />
+
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="14dp"
+                    android:layout_weight="1"
+                    android:text="PROVINSI"
+                    android:paddingLeft="15dp"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20dp"
+                    android:layout_weight="1"
+                    android:text=":" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="14dp"
+                    android:layout_weight="1"
+                    android:text=" JAWA TENGAH " />
+
+
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="14dp"
+                    android:layout_weight="1"
+                    android:text="STATUS SEKOLAH"
+                    android:paddingLeft="15dp"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20dp"
+                    android:layout_weight="1"
+                    android:text=":" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="14dp"
+                    android:layout_weight="1"
+                    android:text=" SMP" />
+
+
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="14dp"
+                    android:layout_weight="1"
+                    android:text="STATUS KEPEMILIKAN"
+                    android:paddingLeft="15dp"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20dp"
+                    android:layout_weight="1"
+                    android:text=":" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="14dp"
+                    android:layout_weight="1"
+                    android:text="" />
+
+
+            </TableRow>
         </TableLayout>
     </LinearLayout>
 </RelativeLayout>
