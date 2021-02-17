@@ -4,43 +4,89 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".PrestasiActivity">
+    tools:context=".InformasiActivity">
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="290dp"
+            app:srcCompat="@drawable/pengumuman" >
+
+        </ImageView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:background="#8F000000"
+            android:paddingLeft="15dp"
+            android:paddingTop="15dp"
+            android:paddingBottom="15dp"
+            android:text="INFORMASI"
+            android:textSize="20dp"
+            android:textStyle="bold">
+
+        </TextView>
+
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="350dp"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
             android:layout_weight="1"
-            android:orientation="vertical">
+            android:padding="16dp">
+
             <ImageView
-                android:layout_width="match_parent"
-                android:layout_height="160dp"
-                android:layout_marginTop="50dp"
-                android:background="@color/white"
-                android:src="@drawable/information">
+                android:layout_width="78dp"
+                android:layout_height="78dp"
+                android:background="@drawable/pengumuman">
+
             </ImageView>
             <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:text="BERIKUT BERISIKAN TENTANG INFORMASI SEKOLAH"
-                android:textColor="@color/black"
-                android:textSize="20dp"
-                android:textStyle="bold">
-            </TextView>
-
-            <TextView
-                android:id="@+id/textView9"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="SMP MUHAMMDIYAH 1 TEGAL Adalah Sekolah yang mendalami
-                                ilmu Aagama, Adapun kelas Yang diinginkan.ada 3 macam kelas yaitu,
-                                    Kelas TAFITHS,IT,DAN REGULER. " />
-                android:textsize="14dp"
+                android:layout_height="219dp"
+                android:paddingLeft="18dp"
+                android:text="informasi"
+                android:textStyle="bold"
+                android:textColor="@color/black">
 
+            </TextView>
         </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:padding="16dp">
+
+            <ImageView
+                android:layout_width="78dp"
+                android:layout_height="78dp"
+                android:background="@drawable/pengumuman">
+
+            </ImageView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="219dp"
+                android:paddingLeft="18dp"
+                android:text="informasi"
+                android:textStyle="bold"
+                android:textColor="@color/black">
+
+            </TextView>
+        </LinearLayout>
+
+
+
+
+
+
     </LinearLayout>
 
 </RelativeLayout>
