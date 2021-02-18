@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AgendaActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:background="#03A9F4">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="AGENDA"
+                        android:textColor="@color/black"
+                        android:textSize="50dp"
+                        android:textStyle="bold"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="480dp"
+                    android:layout_weight="1"
+                    android:orientation="horizontal"
+                    android:background="#0003A9F4">
+                    <LinearLayout
+                        android:layout_width="410dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center_horizontal"
+                        android:orientation="vertical"
+                        android:background="@color/white">
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="230dp"
+                            android:src="@drawable/upacara"
+                            android:layout_marginTop="-15dp">
+                        </ImageView>
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="UPACARA"
+                            android:textSize="50dp"
+                            android:textStyle="bold"
+                            android:textColor="@color/black">
+                        </TextView>
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="Setiap hari senin dan hari penting sekolah SMP MUHHAMMADIYAH 1KOTA TEGAL mengadakan agenda upacara yg di laksanakan oleh siswa-siswa,Guru dan karyawan staf.petugas upacara yg dipilih oleh ketua organisasi,Dan setiap hari jumat WAJIB mengikutin kegiatan hisbul wathon pukul 13.30 sampai selesai,Adapun Agenda pada tanggal 17 agustus mengadakan:Jalan santai dan lomba-lomba,bnyk pilihan untuk mengikuti lomba-lomba"
+                            android:textColor="@color/black"
+                            android:textSize="20dp"
+                            android:textStyle="bold">
+
+                        </TextView>
+
+                    </LinearLayout>
+
+
+
+
+
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

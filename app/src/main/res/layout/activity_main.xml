@@ -81,7 +81,9 @@
                             android:text="Profil"
                             android:textColor="@color/black"
                             android:textSize="24dp"
-                            android:textStyle="bold"></TextView>
+                            android:textStyle="bold">
+
+                        </TextView>
 
                         <ImageView
                             android:layout_width="100dp"
@@ -89,7 +91,9 @@
                             android:layout_marginTop="50dp"
                             android:background="#00BCD4"
                             android:onClick="prestasi"
-                            android:src="@drawable/prestasi"></ImageView>
+                            android:src="@drawable/prestasi">
+
+                        </ImageView>
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -132,15 +136,19 @@
                             android:layout_height="100dp"
                             android:background="#00BCD4"
                             android:onClick="tugas"
-                            android:src="@drawable/tugas"></ImageView>
+                            android:src="@drawable/tugas">
+
+                        </ImageView>
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="tugas"
+                            android:text="Agenda"
                             android:textColor="@color/black"
                             android:textSize="26dp"
-                            android:textStyle="bold"></TextView>
+                            android:textStyle="bold">
+
+                        </TextView>
 
                         <ImageView
                             android:layout_width="100dp"

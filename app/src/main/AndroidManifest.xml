@@ -15,7 +15,7 @@
         <activity android:name=".BtqActivity" />
         <activity android:name=".EkstrakulikulerActivity" />
         <activity android:name=".InformasiActivity" />
-        <activity android:name=".TugasActivity" />
+        <activity android:name=".AgendaActivity" />
         <activity android:name=".AbsensiActivity" />
         <activity android:name=".PrestasiActivity" />
         <activity android:name=".ProfilActivity" />
