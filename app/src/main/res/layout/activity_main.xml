@@ -16,8 +16,10 @@
 
             <ImageView
                 android:layout_width="match_parent"
-                android:layout_height="255dp"
-                android:background="@drawable/logosmp"></ImageView>
+                android:layout_height="240dp"
+                android:background="@drawable/logosmp">
+
+            </ImageView>
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -34,7 +36,9 @@
                     <ImageView
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/bg"></ImageView>
+                        android:src="@drawable/bg">
+
+                    </ImageView>
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -43,7 +47,9 @@
                         android:text="SMP MUHAMMADIYAH1 TEGAL"
                         android:textColor="@color/white"
                         android:textSize="20dp"
-                        android:textStyle="bold"></TextView>
+                        android:textStyle="bold">
+
+                    </TextView>
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -51,7 +57,9 @@
                         android:text="Bersama Kita Bangun Generasi Bangsa"
                         android:textColor="@color/white"
                         android:textSize="20dp"
-                        android:textStyle="bold"></TextView>
+                        android:textStyle="bold">
+
+                    </TextView>
                 </LinearLayout>
 
                 <LinearLayout
@@ -69,11 +77,13 @@
                         android:orientation="vertical">
 
                         <ImageView
-                            android:layout_width="100dp"
-                            android:layout_height="100dp"
+                            android:layout_width="120dp"
+                            android:layout_height="120dp"
                             android:background="#00BCD4"
                             android:onClick="profil"
-                            android:src="@drawable/profil"></ImageView>
+                            android:src="@drawable/profil">
+
+                        </ImageView>
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -86,8 +96,8 @@
                         </TextView>
 
                         <ImageView
-                            android:layout_width="100dp"
-                            android:layout_height="100dp"
+                            android:layout_width="125dp"
+                            android:layout_height="125dp"
                             android:layout_marginTop="50dp"
                             android:background="#00BCD4"
                             android:onClick="prestasi"
@@ -101,15 +111,19 @@
                             android:text="Prestasi"
                             android:textColor="@color/black"
                             android:textSize="24dp"
-                            android:textStyle="bold"></TextView>
+                            android:textStyle="bold">
+
+                        </TextView>
 
                         <ImageView
-                            android:layout_width="100dp"
-                            android:layout_height="100dp"
-                            android:layout_marginTop="50dp"
+                            android:layout_width="125dp"
+                            android:layout_height="125dp"
+                            android:layout_marginTop="60dp"
                             android:background="#00BCD4"
                             android:onClick="absensi"
-                            android:src="@drawable/absensi"></ImageView>
+                            android:src="@drawable/absensi">
+
+                        </ImageView>
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -132,8 +146,8 @@
                         android:orientation="vertical">
 
                         <ImageView
-                            android:layout_width="100dp"
-                            android:layout_height="100dp"
+                            android:layout_width="125dp"
+                            android:layout_height="125dp"
                             android:background="#00BCD4"
                             android:onClick="tugas"
                             android:src="@drawable/tugas">
@@ -151,12 +165,14 @@
                         </TextView>
 
                         <ImageView
-                            android:layout_width="100dp"
-                            android:layout_height="100dp"
-                            android:layout_marginTop="40dp"
+                            android:layout_width="120dp"
+                            android:layout_height="120dp"
+                            android:layout_marginTop="50dp"
                             android:background="#00BCD4"
                             android:onClick="ekstrakulikuler"
-                            android:src="@drawable/estrakulikuler"></ImageView>
+                            android:src="@drawable/estrakulikuler">
+
+                        </ImageView>
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -164,15 +180,19 @@
                             android:text="Ekstrakulikuler"
                             android:textColor="@color/black"
                             android:textSize="24dp"
-                            android:textStyle="bold"></TextView>
+                            android:textStyle="bold">
+
+                        </TextView>
 
                         <ImageView
-                            android:layout_width="100dp"
-                            android:layout_height="100dp"
+                            android:layout_width="125dp"
+                            android:layout_height="125dp"
                             android:layout_marginTop="50dp"
                             android:background="#00BCD4"
                             android:onClick="informasi"
-                            android:src="@drawable/informasi"></ImageView>
+                            android:src="@drawable/informasi">
+
+                        </ImageView>
 
                         <TextView
                             android:layout_width="wrap_content"
@@ -180,7 +200,9 @@
                             android:text="Informasi"
                             android:textColor="@color/black"
                             android:textSize="24dp"
-                            android:textStyle="bold"></TextView>
+                            android:textStyle="bold">
+
+                        </TextView>
 
                     </LinearLayout>
                 </LinearLayout>

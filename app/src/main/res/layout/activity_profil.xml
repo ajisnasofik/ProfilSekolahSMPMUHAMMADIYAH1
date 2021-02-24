@@ -196,7 +196,7 @@
                            android:textStyle="bold"
                            android:textSize="14dp"
                            android:layout_weight="1"
-                           android:text="" />
+                           android:text="1948" />
 
                    </TableRow>
                    <TableRow
@@ -254,7 +254,7 @@
                            android:textStyle="bold"
                            android:textSize="14dp"
                            android:layout_weight="1"
-                           android:text="" />
+                           android:text="	52125" />
 
 
                    </TableRow>
@@ -372,7 +372,7 @@
                            android:textStyle="bold"
                            android:textSize="14dp"
                            android:layout_weight="1"
-                           android:text="" />
+                           android:text="SWASTA" />
 
 
                    </TableRow>

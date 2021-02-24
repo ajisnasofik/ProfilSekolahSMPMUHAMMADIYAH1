@@ -9,6 +9,6 @@ public class AbsensiActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_absensi);
+        setContentView(R.layout.activity_profil_guru);
     }
 }

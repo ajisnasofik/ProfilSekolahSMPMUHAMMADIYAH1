@@ -28,7 +28,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="AGENDA"
+                        android:text="UPACARA"
                         android:textColor="@color/black"
                         android:textSize="50dp"
                         android:textStyle="bold"/>
@@ -54,14 +54,7 @@
                             android:src="@drawable/upacara"
                             android:layout_marginTop="-15dp">
                         </ImageView>
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="UPACARA"
-                            android:textSize="50dp"
-                            android:textStyle="bold"
-                            android:textColor="@color/black">
-                        </TextView>
+
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -74,11 +67,6 @@
                         </TextView>
 
                     </LinearLayout>
-
-
-
-
-
                 </LinearLayout>
             </LinearLayout>
         </RelativeLayout>
