@@ -10,65 +10,106 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <RelativeLayout
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_height="60dp"
+                android:background="#3C000000"
+                android:gravity="center"
                 android:orientation="vertical">
 
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="80dp"
-                    android:orientation="vertical"
-                    android:gravity="center"
-                    android:background="#03A9F4">
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="UPACARA"
-                        android:textColor="@color/black"
-                        android:textSize="50dp"
-                        android:textStyle="bold"/>
-
-                </LinearLayout>
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="480dp"
-                    android:layout_weight="1"
-                    android:orientation="horizontal"
-                    android:background="#0003A9F4">
-                    <LinearLayout
-                        android:layout_width="410dp"
-                        android:layout_height="match_parent"
-                        android:layout_weight="1"
-                        android:gravity="center_horizontal"
-                        android:orientation="vertical"
-                        android:background="@color/white">
-                        <ImageView
-                            android:layout_width="match_parent"
-                            android:layout_height="230dp"
-                            android:src="@drawable/upacara"
-                            android:layout_marginTop="-15dp">
-                        </ImageView>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:gravity="center"
-                            android:text="Setiap hari senin dan hari penting sekolah SMP MUHHAMMADIYAH 1KOTA TEGAL mengadakan agenda upacara yg di laksanakan oleh siswa-siswa,Guru dan karyawan staf.petugas upacara yg dipilih oleh ketua organisasi,Dan setiap hari jumat WAJIB mengikutin kegiatan hisbul wathon pukul 13.30 sampai selesai,Adapun Agenda pada tanggal 17 agustus mengadakan:Jalan santai dan lomba-lomba,bnyk pilihan untuk mengikuti lomba-lomba"
-                            android:textColor="@color/black"
-                            android:textSize="20dp"
-                            android:textStyle="bold">
-
-                        </TextView>
-
-                    </LinearLayout>
-                </LinearLayout>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="upacara"
+                    android:textColor="@color/black"
+                    android:textSize="40dp"
+                    android:textStyle="bold"/>
             </LinearLayout>
-        </RelativeLayout>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/upacara">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:layout_gravity="center_horizontal"
+                android:text="Setiap hari senin dan hari penting sekolah SMP MUHHAMMADIYAH 1KOTA TEGAL mengadakan agenda upacara yg di laksanakan oleh siswa-siswa,Guru dan karyawan staf.siswa harus hadir jam 06.20 berada di lapangan."
+                android:textSize="15dp"
+                android:textStyle="bold">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="#3C000000"
+                android:gravity="center"
+                android:text="Jalan Sehat"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="40dp">
+
+            </TextView>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/upacara">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:layout_gravity="center_horizontal"
+                android:text="Setiap 1 Bulan sekali SMP MUHHAMMADIYAH 1 TEGAL mengadakan jalan Sehat/santai."
+                android:textSize="15dp"
+                android:textStyle="bold">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="Infaq"
+                android:textSize="40dp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:background="#3C000000"
+                android:gravity="center">
+
+            </TextView>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/upacara">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:layout_gravity="center_horizontal"
+                android:text="setiap hari jum'at SMP MUHHAMMADIYAH 1 KOTA TEGAL mengadakan kegiatan HW, dan infaq di wajibkan untuk siswa kelas 1 dan 2 untuk berangkat mengikuti kegiatan tersebut.infak tersebut akan di sakurkan ke korban bencana alam."
+                android:textSize="15dp"
+                android:textStyle="bold">
+
+            </TextView>
+
+
+
+
+        </LinearLayout>
+
     </ScrollView>
+
 </RelativeLayout>

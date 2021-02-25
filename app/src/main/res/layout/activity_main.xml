@@ -15,34 +15,40 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
-            android:orientation="vertical"
-            android:gravity="center">
+            android:gravity="center"
+            android:orientation="vertical">
+
             <ImageView
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                android:src="@drawable/bg">
-            </ImageView>
+                android:src="@drawable/bg"></ImageView>
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="SMP MUHAMMADIYAH 1 TEGAL"
-                android:textStyle="bold"
-                android:textColor="@color/white"
-                android:textSize="25dp">
+                android:textColor="@color/teal_200"
+                android:textSize="24dp"
+                android:textStyle="bold">
+
             </TextView>
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Bersama Kita Membangun Bangsa"
-                android:textStyle="bold"
-                android:textColor="@color/white"
-                android:textSize="20dp">
+                android:textColor="@color/teal_200"
+                android:textSize="20dp"
+                android:textStyle="bold">
+
             </TextView>
         </LinearLayout>
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
@@ -53,14 +59,14 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:background="#03A9F4"
+                android:background="#673AB7"
                 android:gravity="center_horizontal"
                 android:orientation="vertical">
 
                 <ImageView
                     android:layout_width="95dp"
                     android:layout_height="95dp"
-                    android:background="#03A9F4"
+                    android:background="#673AB7"
                     android:onClick="profil"
                     android:src="@drawable/profil"></ImageView>
 
@@ -76,7 +82,7 @@
                     android:layout_width="95dp"
                     android:layout_height="95dp"
                     android:layout_marginTop="40dp"
-                    android:background="#03A9F4"
+                    android:background="#673AB7"
                     android:onClick="prestasi"
                     android:src="@drawable/prestasi"></ImageView>
 
@@ -92,7 +98,7 @@
                     android:layout_width="95dp"
                     android:layout_height="95dp"
                     android:layout_marginTop="40dp"
-                    android:background="#03A9F4"
+                    android:background="#673AB7"
                     android:onClick="absensi"
                     android:src="@drawable/absensi"></ImageView>
 
@@ -110,13 +116,13 @@
                 android:layout_width="0dp"
                 android:orientation="vertical"
                 android:layout_height="match_parent"
-                android:background="#03A9F4"
+                android:background="#673AB7"
                 android:gravity="center_horizontal">
 
                 <ImageView
                     android:layout_width="95dp"
                     android:layout_height="100dp"
-                    android:background="#03A9F4"
+                    android:background="#673AB7"
                     android:onClick="tugas"
                     android:src="@drawable/tugas">
                 </ImageView>
@@ -133,7 +139,7 @@
                     android:layout_height="95dp"
                     android:layout_marginTop="40dp"
                     android:src="@drawable/estrakulikuler"
-                    android:background="#03A9F4"
+                    android:background="#673AB7"
                     android:onClick="ekstrakulikuler">
                 </ImageView>
                 <TextView
@@ -149,7 +155,7 @@
                     android:layout_height="95dp"
                     android:layout_marginTop="40dp"
                     android:src="@drawable/informasi"
-                    android:background="#03A9F4"
+                    android:background="#673AB7"
                     android:onClick="informasi">
                 </ImageView>
                 <TextView
