@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
     public void absensi(View view){
-        Intent intent=new Intent(MainActivity.this, AbsensiActivity.class);
+        Intent intent=new Intent(MainActivity.this, Visi_Misi_Activity.class);
         startActivity(intent);
     }
     public void tugas(View view){

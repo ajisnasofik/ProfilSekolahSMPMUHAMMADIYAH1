@@ -16,7 +16,7 @@
         <activity android:name=".EkstrakulikulerActivity" />
         <activity android:name=".InformasiActivity" />
         <activity android:name=".AgendaActivity" />
-        <activity android:name=".AbsensiActivity" />
+        <activity android:name=".Visi_Misi_Activity" />
         <activity android:name=".PrestasiActivity" />
         <activity android:name=".ProfilActivity" />
         <activity android:name=".MainActivity">
