@@ -6,72 +6,94 @@
     android:layout_height="match_parent"
     tools:context=".Visi_Misi_Activity">
 
+   <ScrollView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:orientation="vertical"
+           android:paddingTop="20dp">
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:orientation="vertical">
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="60dp"
+               android:layout_gravity="center"
+               android:background="#673AB7"
+               android:gravity="center"
+               android:paddingLeft="10dp"
+               android:paddingRight="10dp"
+               android:text="VISI"
+               android:textSize="40dp"
+               android:textStyle="bold">
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="80dp"
-            android:orientation="vertical"
-            android:gravity="center"
-            android:background="#199186">
+           </TextView>
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Visi"
-                android:textColor="@color/black"
-                android:textSize="50dp"
-                android:textStyle="bold"/>
+           <LinearLayout
+               android:layout_width="wrap_content"
+               android:layout_height="93dp">
 
-        </LinearLayout>
+               <TextView
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:paddingLeft="10dp"
+                   android:text=" Berprestasi dengan wawasan IPTEK, Lingkungan Hidup, berlandaskan Imtaq,
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="480dp"
-            android:layout_weight="1"
-            android:orientation="horizontal"
-            android:background="#0003A9F4">
-            <LinearLayout
-                android:layout_width="410dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:gravity="center_horizontal"
-                android:orientation="vertical"
-                android:background="@color/white">
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="290dp"
-                    android:layout_marginTop="-15dp">
-                </ImageView>
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text=""
-                    android:textSize="50dp"
-                    android:textStyle="bold"
-                    android:textColor="@color/black">
-                </TextView>
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:gravity="center"
-                    android:text=""
-                    android:textColor="@color/black"
-                    android:textSize="20dp"
-                    android:textStyle="bold">
+serta berpijak pada budaya bangsa."
+                   android:textAlignment="center"
+                   android:textSize="20dp"
+                   android:textStyle="bold">
 
-                </TextView>
-
-            </LinearLayout>
+               </TextView>
 
 
+           </LinearLayout>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="600dp"
+               android:orientation="vertical"
+               android:layout_margin="50dp">
+
+               <TextView
+                   android:layout_width="match_parent"
+                   android:layout_height="60dp"
+                   android:layout_gravity="center"
+                   android:background="#673AB7"
+                   android:gravity="center"
+                   android:text="MISI"
+                   android:textSize="40dp"
+                   android:textStyle="bold">
+
+               </TextView>
+
+               <LinearLayout
+                   android:layout_width="wrap_content"
+                   android:layout_height="483dp">
+
+                   <TextView
+                       android:layout_width="match_parent"
+                       android:layout_height="wrap_content"
+                       android:paddingLeft="10dp"
+                       android:text="1. Mewujudkan lingkungansekolah yang bebas dari Narkoba
+                                     2. Mewujudkan lingkungan sekolah yang ASRI BERSERI
+                                     3. Mewujudkan kompetensi sikap siswa yang berkarakter
+                                     4. Mewujudkan kompetensi siswa yang memiliki pengetahuan dan ketrampilan
+                                     5. Mewujudkan pendidikan berkarakter anti korupsi."
+                       android:textSize="20dp"
+                       android:textStyle="bold">
+
+                   </TextView>
 
 
 
-        </LinearLayout>
-    </LinearLayout>
+               </LinearLayout>
+           </LinearLayout>
+
+
+       </LinearLayout>
+
+   </ScrollView>
+
+
 </RelativeLayout>
