@@ -62,7 +62,7 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
-                android:src="@drawable/upacara">
+                android:src="@drawable/hiya">
 
             </ImageView>
 
@@ -91,7 +91,7 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
-                android:src="@drawable/upacara">
+                android:src="@drawable/hoya">
 
             </ImageView>
 
