@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
     public void tugas(View view){
-        Intent intent=new Intent(MainActivity.this, AgendaActivity.class);
+        Intent intent=new Intent(MainActivity.this, GuruActivity.class);
         startActivity(intent);
     }
     public void ekstrakulikuler(View view){

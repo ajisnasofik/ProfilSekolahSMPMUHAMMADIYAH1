@@ -9,13 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ProfilsekolahSMPMUHAMMADIYAH1">
-        <activity android:name=".SilatActivity"></activity>
+        <activity android:name=".SplashScreen"></activity>
+        <activity android:name=".SilatActivity" />
         <activity android:name=".FutsalActivity" />
         <activity android:name=".BuluTangkisActivity" />
         <activity android:name=".BtqActivity" />
         <activity android:name=".EkstrakulikulerActivity" />
         <activity android:name=".InformasiActivity" />
-        <activity android:name=".AgendaActivity" />
+        <activity android:name=".GuruActivity" />
         <activity android:name=".Visi_Misi_Activity" />
         <activity android:name=".PrestasiActivity" />
         <activity android:name=".ProfilActivity" />

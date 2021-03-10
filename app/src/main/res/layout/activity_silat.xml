@@ -42,42 +42,42 @@
                <ImageView
                    android:layout_width="200dp"
                    android:layout_height="200dp"
-                   android:src="@drawable/latihan">
+                   android:src="@drawable/wkk">
 
                </ImageView>
 
                <ImageView
                    android:layout_width="200dp"
                    android:layout_height="200dp"
-                   android:src="@drawable/pencak_silat">
+                   android:src="@drawable/awok">
 
                </ImageView>
 
                <ImageView
                    android:layout_width="200dp"
                    android:layout_height="200dp"
-                   android:src="@drawable/beladiri">
+                   android:src="@drawable/wiwi">
 
                </ImageView>
 
                <ImageView
                    android:layout_width="200dp"
                    android:layout_height="200dp"
-                   android:src="@drawable/berlatih">
+                   android:src="@drawable/wewe">
 
                </ImageView>
 
                <ImageView
                    android:layout_width="200dp"
                    android:layout_height="200dp"
-                   android:src="@drawable/lomba_silat">
+                   android:src="@drawable/hihi">
 
                </ImageView>
 
                <ImageView
                    android:layout_width="200dp"
                    android:layout_height="200dp"
-                   android:src="@drawable/presentasi">
+                   android:src="@drawable/yaha">
 
                </ImageView>
 
