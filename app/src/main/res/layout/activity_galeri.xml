@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".PrestasiActivity">
+    tools:context=".GaleriActivity">
 
 
     <LinearLayout
@@ -22,7 +22,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="PRESTASI"
+                android:text="Galeri Sekolah"
                 android:textColor="@color/black"
                 android:textSize="50dp"
                 android:textStyle="bold"/>
@@ -45,18 +45,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="290dp"
-                    android:src="@drawable/ngaji"
+                    android:src="@drawable/sekolah"
                     android:layout_marginTop="-15dp">
                 </ImageView>
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="130dp"
-                    android:layout_gravity="center_horizontal"
-                    android:text="Sekolah ini mendapat prestasi di BTQ yaitu juara lomba tartil dalam membaca al-Qur'an "
-                    android:textSize="20dp"
-                    android:textStyle="bold"
-                    android:textColor="@color/black">
-                </TextView>
+
 
             </LinearLayout>
         </LinearLayout>

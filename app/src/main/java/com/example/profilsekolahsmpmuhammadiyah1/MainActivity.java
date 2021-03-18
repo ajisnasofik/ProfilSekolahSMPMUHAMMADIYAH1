@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
     public void prestasi(View view){
-        Intent intent=new Intent(MainActivity.this, PrestasiActivity.class);
+        Intent intent=new Intent(MainActivity.this, GaleriActivity.class);
         startActivity(intent);
     }
     public void absensi(View view){
