@@ -15,6 +15,6 @@
         android:layout_centerVertical="true"
         android:backgroundTint="#FFFFFF"
         android:scaleType="centerCrop"
-        android:src="@drawable/LogoQobilahMutu"/>
+        android:src="@drawable/bg"/>
 
 </RelativeLayout>

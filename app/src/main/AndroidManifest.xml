@@ -4,12 +4,12 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/bg"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ProfilsekolahSMPMUHAMMADIYAH1">
-        <activity android:name=".SplashScreen"></activity>
+        <activity android:name=".SplashScreen"/>
         <activity android:name=".SilatActivity" />
         <activity android:name=".FutsalActivity" />
         <activity android:name=".BuluTangkisActivity" />
