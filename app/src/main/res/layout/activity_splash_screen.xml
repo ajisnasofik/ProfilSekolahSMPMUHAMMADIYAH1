@@ -12,6 +12,6 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:src="@drawable/logoqobilahmutu"
-        android:padding="25dp"/>
+        android:padding="26dp"/>
 
 </RelativeLayout>
