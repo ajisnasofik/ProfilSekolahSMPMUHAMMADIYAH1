@@ -60,7 +60,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text="KEPALA SEKOLAH"
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
@@ -109,7 +109,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text=" PAI "
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
@@ -158,7 +158,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text=" IPS "
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
@@ -207,7 +207,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text=" IPA "
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
@@ -256,7 +256,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text=" PJOK "
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
@@ -305,7 +305,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text="BAHASA JAWA"
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
@@ -354,7 +354,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text="BAHASA INDONESIA"
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
@@ -403,7 +403,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text="MATEMATIKA"
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
@@ -452,7 +452,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text="SENI BUDAYA"
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
@@ -501,7 +501,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text="PKN"
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
@@ -550,7 +550,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text="BAHASA INGGRIS"
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
@@ -599,7 +599,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text="PAI"
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
@@ -648,7 +648,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text="IPA"
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
@@ -697,7 +697,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text="IPS"
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
@@ -747,7 +747,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text="MATEMATIKA"
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
@@ -796,7 +796,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text="BAHASA INDONESIA"
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
@@ -845,7 +845,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text="PAI"
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
@@ -895,7 +895,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text="BK-BP"
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
@@ -945,7 +945,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text="BK-BP"
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
@@ -995,7 +995,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text="STAF TU"
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
@@ -1045,7 +1045,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text="STAF TU"
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
@@ -1095,7 +1095,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text="STAF TU"
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
@@ -1145,7 +1145,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="65dp"
                 android:text="STAF TU"
-                android:textColor="#F44336"
+                android:textColor="#2196F3"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
