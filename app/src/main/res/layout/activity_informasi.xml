@@ -15,7 +15,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="290dp"
-            app:srcCompat="@drawable/pengumuman" >
+           android:src="@drawable/ppdb">
 
         </ImageView>
 
@@ -28,64 +28,38 @@
             android:paddingLeft="15dp"
             android:paddingTop="15dp"
             android:paddingBottom="15dp"
-            android:text="INFORMASI"
+            android:text="PPDB SEKOLAH"
             android:textSize="20dp"
             android:textStyle="bold">
 
         </TextView>
 
-        <LinearLayout
+        <TextView
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:orientation="horizontal"
-            android:layout_weight="1"
-            android:padding="16dp">
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:paddingLeft="15dp"
+            android:paddingBottom="15dp"
+            android:text="Berikut link untuk pendaftaran sekolah"
+            android:textSize="20dp"
+            android:textStyle="bold">
 
-            <ImageView
-                android:layout_width="78dp"
-                android:layout_height="78dp"
-                android:background="@drawable/pengumuman">
+        </TextView>
 
-            </ImageView>
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="219dp"
-                android:paddingLeft="18dp"
-                android:text="informasi"
-                android:textStyle="bold"
-                android:textColor="@color/black">
-
-            </TextView>
-        </LinearLayout>
-
-        <LinearLayout
+        <TextView
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:orientation="horizontal"
-            android:layout_weight="1"
-            android:padding="16dp">
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:autoLink="web"
+            android:gravity="center"
+            android:paddingLeft="15dp"
+            android:paddingBottom="15dp"
+            android:text="http://bit.ly/formpendf_smpmuh1"
+            android:textSize="20dp"
+            android:textStyle="bold">
 
-            <ImageView
-                android:layout_width="78dp"
-                android:layout_height="78dp"
-                android:background="@drawable/pengumuman">
-
-            </ImageView>
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="219dp"
-                android:paddingLeft="18dp"
-                android:text="informasi"
-                android:textStyle="bold"
-                android:textColor="@color/black">
-
-            </TextView>
-        </LinearLayout>
-
-
-
-
-
+        </TextView>
 
     </LinearLayout>
 
