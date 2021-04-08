@@ -17,10 +17,7 @@ public class MainActivity extends AppCompatActivity {
         Intent intent=new Intent(MainActivity.this, ProfilActivity.class);
         startActivity(intent);
     }
-    public void prestasi(View view){
-        Intent intent=new Intent(MainActivity.this, GaleriActivity.class);
-        startActivity(intent);
-    }
+
     public void absensi(View view){
         Intent intent=new Intent(MainActivity.this, Visi_Misi_Activity.class);
         startActivity(intent);
@@ -36,6 +33,11 @@ public class MainActivity extends AppCompatActivity {
 
     public void informasi(View view){
         Intent intent=new Intent(MainActivity.this, InformasiActivity.class);
+        startActivity(intent);
+    }
+
+    public void galeri(View view){
+        Intent intent=new Intent(MainActivity.this, GaleriActivity.class);
         startActivity(intent);
     }
 

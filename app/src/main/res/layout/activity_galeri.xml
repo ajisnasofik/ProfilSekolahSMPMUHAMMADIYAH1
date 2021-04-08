@@ -6,76 +6,60 @@
     android:layout_height="match_parent"
     tools:context=".GaleriActivity">
 
+
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-        <LinearLayout
+
+        <RelativeLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:orientation="vertical">
+            android:layout_height="match_parent">
+
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="80dp"
-                android:orientation="vertical"
-                android:gravity="center"
-                android:background="#199186">
+                android:layout_height="match_parent"
+                android:orientation="vertical">
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Galeri Sekolah"
-                    android:textColor="@color/black"
-                    android:textSize="50dp"
-                    android:textStyle="bold"/>
+                    android:textStyle="bold"
+                    android:textSize="20dp">
+
+                </TextView>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold">
+
+                </TextView>
+
+                <ImageView
+                    android:layout_width="@dimen/_200sdp"
+                    android:layout_height="@dimen/_200sdp"
+                    android:src="@drawable/rehan">
+                </ImageView>
+
+                <ImageView
+                    android:layout_width="@dimen/_200sdp"
+                    android:layout_height="@dimen/_200sdp"
+                    android:src="@drawable/foto">
+                </ImageView>
+
+                <ImageView
+                    android:layout_width="@dimen/_200sdp"
+                    android:layout_height="@dimen/_200sdp"
+                    android:src="@drawable/study">
+                </ImageView>
+
+                <ImageView
+                    android:layout_width="@dimen/_200sdp"
+                    android:layout_height="@dimen/_200sdp"
+                    android:src="@drawable/sekolah"></ImageView>
 
             </LinearLayout>
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="480dp"
-                android:layout_weight="1"
-                android:orientation="horizontal"
-                android:background="#0003A9F4">
-                <LinearLayout
-                    android:layout_width="410dp"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:gravity="center_horizontal"
-                    android:orientation="vertical"
-                    android:background="@color/white">
-                    <ImageView
-                        android:layout_width="match_parent"
-                        android:layout_height="@dimen/_270sdp"
-                        android:src="@drawable/sekolah">
-                    </ImageView>
-
-                    <ImageView
-                        android:layout_width="match_parent"
-                        android:layout_height="@dimen/_270sdp"
-                        android:src="@drawable/image">
-                    </ImageView>
-
-                    <ImageView
-                        android:layout_width="match_parent"
-                        android:layout_height="@dimen/_270sdp"
-                        android:src="@drawable/study">
-                    </ImageView>
-
-                    <ImageView
-                        android:layout_width="match_parent"
-                        android:layout_height="@dimen/_270sdp"
-                        android:src="@drawable/foto">
-                    </ImageView>
-
-                    <ImageView
-                        android:layout_width="match_parent"
-                        android:layout_height="@dimen/_270sdp"
-                        android:src="@drawable/rehan">
-                    </ImageView>
-
-                </LinearLayout>
-            </LinearLayout>
-        </LinearLayout>
+        </RelativeLayout>
     </ScrollView>
 </RelativeLayout>
