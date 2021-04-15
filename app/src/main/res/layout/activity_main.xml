@@ -63,11 +63,13 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:layout_width="@dimen/_95sdp"
-                    android:layout_height="@dimen/_95sdp"
+                    android:layout_width="95dp"
+                    android:layout_height="95dp"
                     android:background="#00673AB7"
                     android:onClick="profil"
-                    android:src="@drawable/pp"></ImageView>
+                    android:src="@drawable/pp">
+
+                </ImageView>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -75,12 +77,14 @@
                     android:text="Profil"
                     android:textColor="@color/black"
                     android:textSize="15dp"
-                    android:textStyle="bold"></TextView>
+                    android:textStyle="bold">
+
+                </TextView>
 
                 <ImageView
                     android:layout_width="86dp"
                     android:layout_height="111dp"
-                    android:layout_marginTop="@dimen/_40sdp"
+                    android:layout_marginTop="@dimen/_30sdp"
                     android:background="#00673AB7"
                     android:onClick="galeri"
                     android:src="@drawable/galeri"></ImageView>
@@ -96,7 +100,7 @@
                 <ImageView
                     android:layout_width="95dp"
                     android:layout_height="95dp"
-                    android:layout_marginTop="@dimen/_40sdp"
+                    android:layout_marginTop="20dp"
                     android:background="#00673AB7"
                     android:onClick="absensi"
                     android:src="@drawable/misi"></ImageView>
@@ -119,11 +123,13 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:layout_width="@dimen/_95sdp"
-                    android:layout_height="@dimen/_100sdp"
+                    android:layout_width="95dp"
+                    android:layout_height="91dp"
                     android:background="#0800BCD4"
                     android:onClick="tugas"
-                    android:src="@drawable/images"></ImageView>
+                    android:src="@drawable/images">
+
+                </ImageView>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -137,7 +143,7 @@
                 <ImageView
                     android:layout_width="95dp"
                     android:layout_height="95dp"
-                    android:layout_marginTop="@dimen/_40sdp"
+                    android:layout_marginTop="@dimen/_30sdp"
                     android:background="#00673AB7"
                     android:onClick="ekstrakulikuler"
                     android:src="@drawable/estrakulikuler"></ImageView>
@@ -153,7 +159,7 @@
                 <ImageView
                     android:layout_width="95dp"
                     android:layout_height="95dp"
-                    android:layout_marginTop="@dimen/_40sdp"
+                    android:layout_marginTop="40dp"
                     android:background="#FBFBFB"
                     android:onClick="informasi"
                     android:src="@drawable/informasi"></ImageView>
