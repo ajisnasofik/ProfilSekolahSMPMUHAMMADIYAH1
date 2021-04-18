@@ -44,7 +44,7 @@
                 <ImageView
                     android:layout_width="150dp"
                     android:layout_height="150dp"
-                    android:layout_marginTop="@dimen/_100sdp"
+                    android:layout_marginTop="100dp"
                     android:background="@color/white"
                     android:src="@drawable/btq"
                     android:onClick="btq">
@@ -62,7 +62,7 @@
                 <ImageView
                     android:layout_width="150dp"
                     android:layout_height="150dp"
-                    android:layout_marginTop="@dimen/_70sdp"
+                    android:layout_marginTop="70dp"
                     android:background="@color/white"
                     android:src="@drawable/futsal"
                     android:onClick="futsal">
@@ -86,7 +86,7 @@
                 <ImageView
                     android:layout_width="150dp"
                     android:layout_height="150dp"
-                    android:layout_marginTop="@dimen/_100sdp"
+                    android:layout_marginTop="100dp"
                     android:src="@drawable/bulutangkis"
                     android:background="@color/white"
                     android:onClick="bulutangkis">
@@ -102,7 +102,7 @@
                 <ImageView
                     android:layout_width="170dp"
                     android:layout_height="150dp"
-                    android:layout_marginTop="@dimen/_70sdp"
+                    android:layout_marginTop="70dp"
                     android:src="@drawable/pencaksilat"
                     android:background="@color/white"
                     android:onClick="silat">

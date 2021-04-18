@@ -37,27 +37,36 @@
                 </TextView>
 
                 <ImageView
-                    android:layout_width="@dimen/_200sdp"
-                    android:layout_height="@dimen/_200sdp"
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
                     android:src="@drawable/rehan">
                 </ImageView>
 
                 <ImageView
-                    android:layout_width="@dimen/_200sdp"
-                    android:layout_height="@dimen/_200sdp"
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
                     android:src="@drawable/foto">
                 </ImageView>
 
                 <ImageView
-                    android:layout_width="@dimen/_200sdp"
-                    android:layout_height="@dimen/_200sdp"
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
                     android:src="@drawable/study">
                 </ImageView>
 
                 <ImageView
-                    android:layout_width="@dimen/_200sdp"
-                    android:layout_height="@dimen/_200sdp"
-                    android:src="@drawable/sekolah"></ImageView>
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/sekolah">
+
+                </ImageView>
+
+                <ImageView
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/cewe">
+
+                </ImageView>
 
             </LinearLayout>
         </RelativeLayout>

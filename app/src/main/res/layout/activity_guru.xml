@@ -29,10 +29,10 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
-                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
                 android:src="@drawable/solikhin"/>
         </androidx.cardview.widget.CardView>
 
@@ -77,10 +77,10 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
-                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
                 android:src="@drawable/hanif" />
 
         </androidx.cardview.widget.CardView>
@@ -126,10 +126,10 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
-                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
                 android:src="@drawable/kurniah" />
 
         </androidx.cardview.widget.CardView>
@@ -175,10 +175,10 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
-                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
                 android:src="@drawable/amaliawati" />
 
         </androidx.cardview.widget.CardView>
@@ -224,10 +224,10 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
-                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
                 android:src="@drawable/agung" />
 
         </androidx.cardview.widget.CardView>
@@ -273,10 +273,10 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
-                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
                 android:src="@drawable/diah" />
 
         </androidx.cardview.widget.CardView>
@@ -322,10 +322,10 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
-                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
                 android:src="@drawable/asep" />
 
         </androidx.cardview.widget.CardView>
@@ -371,10 +371,10 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
-                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
                 android:src="@drawable/abdillah" />
 
         </androidx.cardview.widget.CardView>
@@ -420,10 +420,10 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
-                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
                 android:src="@drawable/andri" />
 
         </androidx.cardview.widget.CardView>
@@ -469,10 +469,10 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
-                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
                 android:src="@drawable/wiwin" />
 
         </androidx.cardview.widget.CardView>
@@ -490,7 +490,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="40dp"
-                android:text="WIWIN AGUSTINA, S.Pd., M.MPd."
+                android:text="WIWIN AGUSTINA, S.Pd."
                 android:textColor="#000"
                 android:textSize="15sp"
                 android:textStyle="bold" />
@@ -518,11 +518,11 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
-                android:layout_marginRight="@dimen/_10sdp"
-                android:src="@drawable/yunlafi" />
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:src="@drawable/yunlaifi" />
 
         </androidx.cardview.widget.CardView>
 
@@ -567,10 +567,10 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
-                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
                 android:src="@drawable/kharis" />
 
         </androidx.cardview.widget.CardView>
@@ -616,10 +616,10 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
-                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
                 android:src="@drawable/ollyvika" />
 
         </androidx.cardview.widget.CardView>
@@ -665,10 +665,10 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
-                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
                 android:src="@drawable/seniati" />
 
         </androidx.cardview.widget.CardView>
@@ -715,10 +715,10 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
-                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
                 android:src="@drawable/prita" />
 
         </androidx.cardview.widget.CardView>
@@ -764,10 +764,10 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
-                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
                 android:src="@drawable/lichayatun" />
 
         </androidx.cardview.widget.CardView>
@@ -813,10 +813,10 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
-                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
                 android:src="@drawable/yunia" />
 
         </androidx.cardview.widget.CardView>
@@ -863,10 +863,10 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
-                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
                 android:src="@drawable/rojunah" />
 
         </androidx.cardview.widget.CardView>
@@ -913,10 +913,10 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
-                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
                 android:src="@drawable/sisrianti" />
 
         </androidx.cardview.widget.CardView>
@@ -963,10 +963,10 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
-                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
                 android:src="@drawable/alfi" />
 
         </androidx.cardview.widget.CardView>
@@ -1013,10 +1013,10 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
-                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
                 android:src="@drawable/endang" />
 
         </androidx.cardview.widget.CardView>
@@ -1063,10 +1063,10 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
-                android:layout_marginRight="@dimen/_10sdp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
                 android:src="@drawable/slamet" />
 
         </androidx.cardview.widget.CardView>
@@ -1113,9 +1113,9 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="@dimen/_10sdp"
-                android:layout_marginLeft="@dimen/_10sdp"
-                android:layout_marginTop="@dimen/_10sdp"
+                android:layout_margin="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp"
                 android:src="@drawable/indri" />
 

@@ -40,43 +40,43 @@
                </TextView>
 
                <ImageView
-                   android:layout_width="@dimen/_200sdp"
-                   android:layout_height="@dimen/_200sdp"
-                   android:src="@drawable/wkk">
-
-               </ImageView>
-
-               <ImageView
-                   android:layout_width="@dimen/_200sdp"
-                   android:layout_height="@dimen/_200sdp"
-                   android:src="@drawable/awok">
-
-               </ImageView>
-
-               <ImageView
-                   android:layout_width="@dimen/_200sdp"
-                   android:layout_height="@dimen/_200sdp"
-                   android:src="@drawable/wiwi">
-
-               </ImageView>
-
-               <ImageView
-                   android:layout_width="@dimen/_200sdp"
-                   android:layout_height="@dimen/_200sdp"
-                   android:src="@drawable/wewe">
-
-               </ImageView>
-
-               <ImageView
-                   android:layout_width="@dimen/_200sdp"
-                   android:layout_height="@dimen/_200sdp"
+                   android:layout_width="200dp"
+                   android:layout_height="200dp"
                    android:src="@drawable/hihi">
 
                </ImageView>
 
                <ImageView
-                   android:layout_width="@dimen/_200sdp"
-                   android:layout_height="@dimen/_200sdp"
+                   android:layout_width="200dp"
+                   android:layout_height="200dp"
+                   android:src="@drawable/awok">
+
+               </ImageView>
+
+               <ImageView
+                   android:layout_width="200dp"
+                   android:layout_height="200dp"
+                   android:src="@drawable/wiwi">
+
+               </ImageView>
+
+               <ImageView
+                   android:layout_width="200dp"
+                   android:layout_height="200dp"
+                   android:src="@drawable/wewe">
+
+               </ImageView>
+
+               <ImageView
+                   android:layout_width="200dp"
+                   android:layout_height="200dp"
+                   android:src="@drawable/wkk">
+
+               </ImageView>
+
+               <ImageView
+                   android:layout_width="200dp"
+                   android:layout_height="200dp"
                    android:src="@drawable/yaha">
 
                </ImageView>
